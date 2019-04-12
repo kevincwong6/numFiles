@@ -1,5 +1,4 @@
 import os
-from sys import exit
 
 def NumFiles():
     print("Welcome to Python NumFile Utility\n")
